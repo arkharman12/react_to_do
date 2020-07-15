@@ -1,5 +1,5 @@
 # React TodoList
-A simple but elegant to do app developed with React using components, props, JSX, events etc. 
+A simple but elegant to do app developed with React using components, props, JSX, events etc. <br>
 [Project Link](https://react-to-dos-app.herokuapp.com/)
 
 ## Usage
