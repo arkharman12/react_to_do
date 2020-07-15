@@ -1,6 +1,5 @@
 # React TodoList
-
-[Project Link](https://react-to-dos-app.herokuapp.com/)
+A simple but elegant to do app developed with React using components, props, JSX, events etc. [Project Link](https://react-to-dos-app.herokuapp.com/)
 
 ## Usage
 
