@@ -1,10 +1,16 @@
+# React TodoList
+
+[Project Link](https://react-to-dos-app.herokuapp.com/)
+
 ## Usage
-```
+
+```bash
+# Install dependencies
 npm install
 
-# Run on http://localhost:3000
+# Serve on localhost:3000
 npm start
 
-# Build for prod
+# Build for production
 npm run build
 ```
